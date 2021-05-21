@@ -18,3 +18,14 @@ a{
 	color: #d9dad7;
 	flex-grow: 1;
 }
+
+img {
+	border: .1em solid #ddd;
+	border-radius: .4em;
+	padding: .5em;
+	width: 15em;
+}
+
+.link{
+	margin-bottom: 1em;
+}

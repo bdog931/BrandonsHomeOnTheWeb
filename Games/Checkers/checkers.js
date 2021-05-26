@@ -1,5 +1,3 @@
-
-
 const width = 8;
 const height = 8;
 
@@ -24,8 +22,10 @@ for(let i=0; i<width; i++){
     }
 }
 
-document.getElementById("clickMe").addEventListener("click", function(){
-    document.getElementById("clickMe").innerHTML = "I've been clicked";
-})
+let hey = "Hello";
 
+document.getElementById("counter").addEventListener("click", function(){
+    document.getElementById("counter").innterHTML = hey;
+    console.log("I have been clicked");
+})
 

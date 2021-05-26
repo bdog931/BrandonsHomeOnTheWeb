@@ -1,0 +1,65 @@
+Math is games. More specifically, it analyzes things. But of course to analyze things, they have to elicit certain conceptions and intuitions. 
+
+There seems to be a theme in math of exhausting problems -- people have determined how many configurations a rubik's cube can take -- people have solved connect 4 (apparently)
+and done many things besides that. This is why it bored me. 
+
+But there is another aspect to math. There is something to be said for the state of mind it requires. Something about going from zero to hero. From knowing nothing about 
+a game to becoming a pro. To this end, I aim to analyze bits and pieces of games, but never more than intrigues me. 
+
+A simple example could be within the game of Clash Royale, for those who haven't played it, it's free on app store and many youtube videos showcase it in action. 
+There are 2 cards which are similar but subtley different. The poison spell and the fireball. They are both the same cost, so it is a good case for comparison. The poison 
+spell does more damage in total, but is slowly to achieve this. 
+
+
+
+.....
+
+Something better. 
+
+Let's take an invasive plant species which triples every year. How long until there are 30 plants? (Starting from 1)
+
+0 years from beginning (the beginning) = 1
+
+1 years from beginning 				   = 3 ...
+
+									   = 9 ... 
+									   
+									   = 27 ...
+									   
+									   = 81
+									   
+This means that it's going to be in between the 3rd and 4th year -- although it will be much closer to the 3rd? How much closer? Well, that's a good question. How much 
+has it increased by the time that half of the year has occurred?
+
+I don't know.
+
+Let's do some simple combinatorics.
+
+Let's say you're choosing a quest for avalon. Let's say you are to take 2 people from 5. You can't select the same person twice (obviously because it's Avalon!)
+
+Well for the first person you have 5 options, but for the second you only have 4 options. Therefore, choosing 2 from 5 you have 20 options. 5 * 4.
+
+What about if you're choosing 3 from 5? Well that's 5 * 4 * 3 = 60. 
+
+I guess I need to ask more challenging problems. 
+
+
+
+Let's say you're making 10 000 a year and able to save 1 000. How long will it take you to save 100 000? Well it would take you 
+100 years.
+
+But let's say that your money is invested, and it accrues interest at 4% a year. How long would it then take?
+
+Well at the end of the first year you have 1 000 dollars.
+
+At the end of the second year, you have 1 000 + 1 000 * 1.04
+
+4 % of a thousand is 40 dollars, so you have 2 040. How much bigger is this as compared with 2 000 ? Well it's 2% bigger. But as 
+the years progress it gets closer and closer to 4 (as the amount of money that hasn't yet collected interest becomes relatively smaller and smaller)
+
+So let's say that over the years your average growth is 3 %.
+
+These are hard problems. I guess this is where formulas come in. 
+
+What am I interested in solving? Well I guess geometry problems, combinatorics problems, growth problems and things like that.
+

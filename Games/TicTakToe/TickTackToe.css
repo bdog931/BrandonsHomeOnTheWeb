@@ -1,0 +1,20 @@
+.second-color { 
+	background: #c24d2c; 
+}
+
+.lighter-dark-background { 
+	background: #3e4a61; 
+	display: flex;
+}
+
+.dark-background { 
+	background: #1a2639; 
+    color: #d9dad7;
+    text-align: center;
+}
+
+body{
+	text-align: center;
+	background-color: #1a2639;
+	color: #d9dad7;
+}

@@ -1,0 +1,51 @@
+.black-tile{
+    background-color: black;
+    width: 3em;
+    height: 3em;
+    display: inline-block;
+}
+
+.white-tile{
+    background-color: white;
+    width: 3em;
+    height: 3em;
+    display: inline-block;
+}
+
+.board-container{
+    width: 24em;
+    height: 24em;
+    margin: auto;
+}
+
+body{
+    background-color: rgb(36, 11, 105);
+    color: rgb(247, 243, 243);
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 1.25em;
+}
+
+.pretty-button{
+    margin: 1.25em;
+}
+
+.purple-piece{
+    border-radius: 50%;
+    background-color:rgb(197, 37, 184);
+    width: 2em;
+    height: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.golden-piece{
+    border-radius: 50%;
+    background-color: rgb(243, 213, 42);
+    width: 2em;
+    height: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
